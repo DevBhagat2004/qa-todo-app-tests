@@ -1,0 +1,19 @@
+{
+  "info": {
+    "name": "Todo API Tests",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Create Task",
+      "request": {
+        "method": "POST",
+        "url": "{{base_url}}/tasks",
+        "body": {
+          "mode": "raw",
+          "raw": "{\"task\":\"Test\"}"
+        }
+      }
+    }
+  ]
+}
