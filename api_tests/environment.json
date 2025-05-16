@@ -1,0 +1,9 @@
+{
+  "id": "todo-env",
+  "values": [
+    {
+      "key": "base_url",
+      "value": "https://api.todoapp.com/v1"
+    }
+  ]
+}
