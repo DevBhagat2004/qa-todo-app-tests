@@ -1,6 +1,6 @@
-# 🧪 Todo App QA Test Suite
+# Todo App QA Test Suite
 
-## 🚀 Setup
+## Setup
 ```bash
 # Install dependencies
 pip install -r automation/requirements.txt
